@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		E159FF2B29895500002CC9EA /* JadenCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E159FF2A29895500002CC9EA /* JadenCase.swift */; };
 		E159FF30298960A4002CC9EA /* 무인도 여행.swift in Sources */ = {isa = PBXBuildFile; fileRef = E159FF2F298960A4002CC9EA /* 무인도 여행.swift */; };
+		E1C4EF7D2989756E00E0B3EA /* 인사고과.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C4EF7C2989756E00E0B3EA /* 인사고과.swift */; };
 		E1C5C6432940C047009563E9 /* 자릿수 더하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C5C6422940C047009563E9 /* 자릿수 더하기.swift */; };
 		E1C5C6452940C1FA009563E9 /* 평균값 구하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C5C6442940C1FA009563E9 /* 평균값 구하기.swift */; };
 		E1CC06C728EAC3B0009A485B /* 피로도.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1CC06C628EAC3B0009A485B /* 피로도.swift */; };
@@ -33,6 +34,7 @@
 /* Begin PBXFileReference section */
 		E159FF2A29895500002CC9EA /* JadenCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JadenCase.swift; sourceTree = "<group>"; };
 		E159FF2F298960A4002CC9EA /* 무인도 여행.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "무인도 여행.swift"; sourceTree = "<group>"; };
+		E1C4EF7C2989756E00E0B3EA /* 인사고과.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "인사고과.swift"; sourceTree = "<group>"; };
 		E1C5C6422940C047009563E9 /* 자릿수 더하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "자릿수 더하기.swift"; sourceTree = "<group>"; };
 		E1C5C6442940C1FA009563E9 /* 평균값 구하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "평균값 구하기.swift"; sourceTree = "<group>"; };
 		E1CC06C628EAC3B0009A485B /* 피로도.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "피로도.swift"; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				E1C5C6442940C1FA009563E9 /* 평균값 구하기.swift */,
 				E159FF2A29895500002CC9EA /* JadenCase.swift */,
 				E159FF2F298960A4002CC9EA /* 무인도 여행.swift */,
+				E1C4EF7C2989756E00E0B3EA /* 인사고과.swift */,
 			);
 			path = CodingTestPractice;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1C4EF7D2989756E00E0B3EA /* 인사고과.swift in Sources */,
 				E159FF2B29895500002CC9EA /* JadenCase.swift in Sources */,
 				E1F1551028E5A21C00E83E50 /* 영어끝말잇기.swift in Sources */,
 				E159FF30298960A4002CC9EA /* 무인도 여행.swift in Sources */,

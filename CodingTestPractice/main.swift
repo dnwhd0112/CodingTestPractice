@@ -8,6 +8,6 @@
 import Foundation
 
 //실행코드
-let test = 무인도여행()
+let test = 인사고과()
 
-print(test.solution(["X591X","X1X5X","X231X", "1XXX1"]))
+print(test.solution([[1,2],[2,3],[3,2],[3,2],[2,1],[1,5]]))
