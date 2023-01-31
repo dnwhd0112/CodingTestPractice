@@ -8,6 +8,6 @@
 import Foundation
 
 //실행코드
-let test = 평균값구하기()
+let test = 무인도여행()
 
-print(test.solution([1,2,3,4]) == 2.5)
+print(test.solution(["X591X","X1X5X","X231X", "1XXX1"]))
