@@ -7,5 +7,7 @@
 
 import Foundation
 
-print("Hello, World!")
+//실행코드
+let test = 평균값구하기()
 
+print(test.solution([1,2,3,4]) == 2.5)
